@@ -1,2 +1,3 @@
 # htmx-alpine-tailwind
-iseng belajar alpine js
+
+malas ngoding pake cdn wak :v
